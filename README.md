@@ -1,13 +1,11 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Todoey ✓
 
 ## Our Goal
 
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
-
-
+The objective of this tutorial is to understand how to manage state in Flutter.
 ## What you will create
 
 A todolist app to keep track of all your tasks.
@@ -25,7 +23,5 @@ A todolist app to keep track of all your tasks.
 - Learn about design patterns and why they are useful.
 - Understand how the Provider package works and use it to manage app state.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
